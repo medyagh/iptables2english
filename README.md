@@ -1,9 +1,6 @@
 # iptables2english
-Will translate iptable rules to english
-
-Acceptance:
-* An installabe binary without any depdenency, that will take a iptable rule and will translate it to English.
+* An binary, that will take a iptable rules and will translate it to English.
 
 
-hit me up on @medyadaily if you have ideas and wanna help.
+Hit me up on twitter @medyadaily if you have ideas and wanna help.
  
